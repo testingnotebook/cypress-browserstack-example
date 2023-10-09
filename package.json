@@ -1,0 +1,27 @@
+{
+  "name": "cypress-browserstack-example",
+  "version": "1.0.0",
+  "description": "An example repo using the running tests on broserstack remote browsers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testingnotebook/cypress-browserstack-example.git"
+  },
+  "keywords": [
+    "cypress",
+    "parallel"
+  ],
+  "author": "Aaron Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/testingnotebook/cypress-browserstack-example/issues"
+  },
+  "homepage": "https://github.com/testingnotebook/cypress-browserstack-example#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^13.3.0"
+  }
+}

@@ -1,0 +1,7 @@
+multi-reporter-config.json
+node_modules/
+runner-results/
+log/
+npm_install_debug.log
+results/
+tmpBstackPackages/
