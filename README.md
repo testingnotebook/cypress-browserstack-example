@@ -1,4 +1,4 @@
-# cypress-cloud-example
+# cypress-browserstack-example
 
 [![Cypress Tests](https://github.com/testingnotebook/cypress-browserstack-example/actions/workflows/main.yaml/badge.svg)](https://github.com/testingnotebook/cypress-browserstack-example/actions/workflows/main.yaml)
 
